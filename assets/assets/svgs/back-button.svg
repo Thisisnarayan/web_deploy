@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="back-button" transform="translate(-5 -28)">
+    <rect id="touch-target" width="48" height="48" transform="translate(5 28)" fill="none"/>
+    <g id="chevron_right_black_24dp_1_" data-name="chevron_right_black_24dp (1)" transform="translate(41 64.001) rotate(180)">
+      <path id="Path_129539" data-name="Path 129539" d="M0,0H24V24H0Z" transform="translate(0 0.001)" fill="none"/>
+      <path id="Path_129540" data-name="Path 129540" d="M9.337,6.757a1.156,1.156,0,0,0,0,1.637l4.5,4.5-4.5,4.5a1.157,1.157,0,0,0,1.637,1.637L16.3,13.709a1.156,1.156,0,0,0,0-1.637L10.973,6.746A1.167,1.167,0,0,0,9.337,6.757Z" transform="translate(-0.641 -1.375)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

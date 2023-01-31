@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Group_74269" data-name="Group 74269" transform="translate(-2115 94)">
+    <rect id="touch_target" width="48" height="48" rx="24" transform="translate(2115 -94)" fill="none"/>
+    <g id="icon_live_help" transform="translate(2127 -82)">
+      <g id="icon_live_help-2" data-name="icon_live_help" opacity="0">
+        <path id="Path_103997" data-name="Path 103997" d="M0,0H24V24H0Z" fill="none"/>
+        <path id="Path_103998" data-name="Path 103998" d="M19,2H5A2,2,0,0,0,3,4V18a2,2,0,0,0,2,2H9l3,3,3-3h4a2.006,2.006,0,0,0,2-2V4A2.006,2.006,0,0,0,19,2ZM13,18H11V16h2Zm2.07-7.75-.9.92A3.4,3.4,0,0,0,13,14H11v-.5a4.025,4.025,0,0,1,1.17-2.83l1.24-1.26A1.955,1.955,0,0,0,14,8a2,2,0,0,0-4,0H8a4,4,0,0,1,8,0A3.182,3.182,0,0,1,15.07,10.25Z" fill="#fff"/>
+      </g>
+      <g id="live_help_black_24dp_1_" data-name="live_help_black_24dp (1)">
+        <path id="Path_107061" data-name="Path 107061" d="M0,0H24V24H0Z" fill="none"/>
+        <path id="Path_107062" data-name="Path 107062" d="M19,2H5A2,2,0,0,0,3,4V18a2,2,0,0,0,2,2H9l3,3,3-3h4a2.006,2.006,0,0,0,2-2V4A2.006,2.006,0,0,0,19,2Zm0,16H14.17l-.59.59L12,20.17l-1.59-1.59L9.83,18H5V4H19Zm-8-3h2v2H11Zm1-8a2.006,2.006,0,0,1,2,2c0,2-3,1.75-3,5h2c0-2.25,3-2.5,3-5A4,4,0,0,0,8,9h2A2.006,2.006,0,0,1,12,7Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
